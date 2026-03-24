@@ -1,6 +1,6 @@
-🚀 Agentic AI Systems Lab
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Agentic%20AI%20Systems%20Lab&fontSize=40&fontColor=ffffff" /> </p> <p align="center">> </p>
-# ⚡ Intelligent Agent Systems Hub
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Agentic%20AI%20Systems%20&fontSize=40&fontColor=ffffff" /> </p> <p align="center">> </p>
+
 
 ### Building Autonomous Workflows with Python & Langflow
 
@@ -88,26 +88,7 @@ This repository includes implementations such as:
 
 ---
 
-## ⚙️ Setup Instructions
 
-```bash
-git clone https://github.com/your-username/intelligent-agent-systems.git
-cd intelligent-agent-systems
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Running the Project
-
-```bash
-python app.py
-```
-
-For visual workflow execution:
-
-```bash
-langflow run
 ```
 
 ---
@@ -135,7 +116,7 @@ This project is distributed under the **MIT License**.
 ## 👩‍💻 Maintainer
 
 **Geethanjali M**
-B.E Student | Aspiring AI & Full Stack Developer
+B.E Student | Aspiring AIML Engineer
 
 ---
 
