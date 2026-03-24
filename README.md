@@ -2,6 +2,8 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Agentic%20AI%20Systems%20&fontSize=40&fontColor=ffffff" /> </p> <p align="center">> </p>
 
 
+# ⚡ Intelligent Agent Systems Hub
+
 ### Building Autonomous Workflows with Python & Langflow
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -85,11 +87,6 @@ This repository includes implementations such as:
 * 🧠 Context-aware assistants
 * 🔄 Feedback-driven improvement loops
 * ⚙️ Real-time decision-making pipelines
-
----
-
-
-```
 
 ---
 
