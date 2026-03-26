@@ -32,7 +32,7 @@ Agent-based AI systems are designed to operate with a level of independence. Unl
 * 🔍 Analyze inputs and make decisions
 * 🛠️ Utilize external tools and services
 * 🔄 Continuously improve based on feedback
-* 🤝 Coordinate with humans or other agents
+* 🤝 Coordinate with humans or other agents.
 
 These systems are widely used in automation, research, and intelligent workflow design.
 
