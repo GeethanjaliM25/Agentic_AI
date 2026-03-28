@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Agentic%20AI%20Systems%20&fontSize=40&fontColor=ffffff" /> </p> <p align="center">> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Agentic%20AI%20Systems%20&fontSize=40&fontColor=ffffff" /> </p> <p align="center"> </p>
 
 
 # ⚡ Intelligent Agent Systems Hub
