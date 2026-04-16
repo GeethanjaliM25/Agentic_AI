@@ -4,7 +4,7 @@
 
 # ⚡ Intelligent Agent Systems Hub
 
-### Building Autonomous Workflows with Python & Langflow
+### Building Autonomous Workflows with Python & Langflow.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
