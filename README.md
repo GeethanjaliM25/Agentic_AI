@@ -12,7 +12,7 @@
 ![Langflow](https://img.shields.io/badge/langflow-agent--builder-purple)
 ![LangChain](https://img.shields.io/badge/langchain-framework-orange)
 ![CrewAI](https://img.shields.io/badge/crewai-multi--agent-red)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black) 
 
 ---
 
