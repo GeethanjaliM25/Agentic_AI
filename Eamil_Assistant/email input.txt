@@ -1,0 +1,47 @@
+Subject: Follow-up for Investor Meeting
+
+Email 1:
+From: Meera, Investor
+To: Arjun, Founder
+Date: Monday, 9:00 AM
+
+Hi Arjun,
+
+Thank you for explaining your startup idea yesterday.
+
+Before our next discussion on Wednesday, please send the updated pitch deck by today 6 PM. This will help me review your business model before I speak to my partners.
+
+Also, please share a short one-page company profile whenever possible. It is not urgent, but it will help me introduce your startup to my team.
+
+Regards,
+Meera
+
+
+Email 2:
+From: Arjun, Founder
+To: Rohan, Co-founder
+Date: Monday, 9:30 AM
+
+Hi Rohan,
+
+Meera has asked for the updated pitch deck by today 6 PM.
+
+Please update the customer growth slide and share it with me by 3 PM. Also, please check whether the product demo link is working properly.
+
+Regards,
+Arjun
+
+
+Email 3:
+From: Rohan, Co-founder
+To: Arjun, Founder
+Date: Monday, 10:15 AM
+
+Hi Arjun,
+
+I will update the customer growth slide by 3 PM.
+
+The product demo link is working, but the home page is loading slowly. It is not blocking the demo, but we should fix it before Wednesday.
+
+Regards,
+Rohan
