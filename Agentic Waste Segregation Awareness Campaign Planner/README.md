@@ -193,14 +193,7 @@ Engagement Score: 75%
 Final Impact Score: 77.5%
 ```
 
----
-
-## ⚙️ Installation
-
-```bash
-pip install langflow
-langflow run
-```
+--
 
 ---
 
